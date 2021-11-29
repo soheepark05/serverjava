@@ -11,6 +11,8 @@ import javax.servlet.http.HttpServletResponse;
 
 //import com.sun.net.httpserver.HttpServer;
 /*
+ * [용어] 서블릿이란? : 동적인 웹 페이지를 만들때 사용되는 자바 기반의 웹 프로그래밍기술
+ * 
  * 서버에서 서블릿을 실행시키는 방법
  * 1. 서블릿 클래스를 작성한다.
  *  - java.servlet.http.HttpServlet를 상속하는 클래스를 생성한다.
