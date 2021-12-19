@@ -19,6 +19,7 @@
 		<label>아이디 : <input type="text" name="userId"></label> <br>
 		<label>패스워드 : <input type="password" name="password"></label> <br>
 		<label>이름 : <input type="text" name="userName"></label> <br>
+		<label>동의 :<input type="checkbox" name="dongE"></label> <br>
 		
 		<br><br>
 		
